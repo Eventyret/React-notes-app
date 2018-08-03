@@ -6,7 +6,7 @@
     "firebase": "^4.2.0",
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react-dom": "^16.0.1",
     "react-scripts": "1.0.10"
   },
   "scripts": {
